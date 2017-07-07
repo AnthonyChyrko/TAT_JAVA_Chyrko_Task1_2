@@ -1,0 +1,16 @@
+<suite name="TestSuite">
+	<test name="AutoQA">
+		<classes>
+			<class name="tests.task0101.Tst0101Statement" />
+			<class name="tests.task0102.Tst0201ExpressionResolve" />
+			<class name="tests.task0103.Tst0301Triangle" />
+			<class name="tests.task0104.Tst0401IsPointInArea" />
+			<class name="tests.task0105.Tst0501Pow" />
+			<class name="tests.task0106.Tst0601SumMinAndMax" />
+			<class name="tests.task0107.Tst0701Solve" />
+			<class name="tests.task0108.Tst0801ArrayExceptionPos" />
+			<class name="tests.task0109.Tst0901GenerateArrayAndJoin" />
+			<class name="tests.task0110.Tst1001Generate" />
+		</classes>
+	</test>
+</suite>
